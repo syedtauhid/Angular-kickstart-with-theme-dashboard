@@ -1,0 +1,16 @@
+// Shared variables and mixins
+// @import
+//     "global/var"                        // global variables
+// ,   "global/var-extra"                  // extra global variables
+// ,   "bootstrap/bootstrap/mixins"        // Bootstrap mixins
+// ,   "bourbon/bourbon"                   // mixins
+// ;
+
+
+@import "pages-theme/pages";
+@import "layout/home";
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
